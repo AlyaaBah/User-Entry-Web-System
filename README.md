@@ -8,7 +8,7 @@ To implement a foundational web application where users can enter their personal
 
 ## File Structure
 
-- `form.html`  
+- `index.php`  
   HTML page with a styled input form allowing users to submit their name and age. Data is sent via POST method.
 
 - `y.php`  
